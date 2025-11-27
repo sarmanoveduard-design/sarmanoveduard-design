@@ -1,94 +1,86 @@
 <h1 align="center">👋 Привет, я Эдуард Сарманов</h1>
 
 <p align="center">
-GPT-инженер • Python-разработчик • AI-разработчик
-</p>
-
-<p align="center">
-Создаю интеллектуальные системы на базе ChatGPT, LangChain, LangGraph и OpenAI API: Telegram-боты, RAG-консультанты, голосовые ассистенты, автоматизацию бизнес-процессов.
+GPT-инженер • Python-разработчик • AI-разработчик  
+Создаю интеллектуальные системы на базе ChatGPT, LangChain, LangGraph и OpenAI API.
 </p>
 
 ---
 
 ## 🚀 Мой стек
 
-**Основное:**
-
-`Python` • `OpenAI API` • `GPT-4/5` • `LangChain` • `LangGraph` • `RAG` • `FAISS`  
-`FastAPI` • `aiogram 3.x` • `Docker` • `VDS` • `Google Sheets API` • `Yandex SpeechKit`
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![OpenAI](https://img.shields.io/badge/OpenAI-API-412991?logo=openai)
+![GPT](https://img.shields.io/badge/GPT-4/5-black?logo=openai)
+![LangChain](https://img.shields.io/badge/LangChain-Framework-orange)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agents-green)
+![FAISS](https://img.shields.io/badge/FAISS-VectorDB-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?logo=fastapi)
+![Docker](https://img.shields.io/badge/Docker-Containerization-0db7ed?logo=docker)
+![Telegram](https://img.shields.io/badge/Telegram-Bots-26A5E4?logo=telegram)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-Integration-34A853?logo=googlesheets)
 
 ---
 
 ## 📌 Мои проекты
 
-- **[UAI FT vs RAG](https://github.com/sarmanoveduard-design/UAI_FT_vs_RAG)** — сравнение Fine-tuning и RAG на материалах УАИ.
-- **[NeuroProtocols](https://github.com/sarmanoveduard-design/NeuroProtocols)** — агент-протоколист для встреч (конспекты, экшены, резюме созвонов).
-- **[GPT_Engineer_Portfolio](https://github.com/sarmanoveduard-design/GPT_Engineer_Portfolio)** — общий репозиторий домашних и учебных проектов.
-- **[MultimodalConfectioneryHW](https://github.com/sarmanoveduard-design/MultimodalConfectioneryHW)** — мультимодальный анализ кондитерского производства: узкие места, риски HACCP и оптимизация процессов на основе GPT-5.
+### 🔹 **MultimodalConfectioneryHW**
+Мультимодальный анализ кондитерского производства: выявление узких мест, рисков HACCP и рекомендации по оптимизации.  
+➡ https://github.com/sarmanoveduard-design/MultimodalConfectioneryHW
+
+### 🔹 UAI FT vs RAG
+Сравнение Fine-tuning и Retrieval-Augmented Generation на учебных задачах УАИ.  
+➡ https://github.com/sarmanoveduard-design/UAI_FT_vs_RAG
+
+### 🔹 NeuroProtocols
+AI-агент для создания протоколов встреч (конспекты, экшены, резюме звонков).  
+➡ https://github.com/sarmanoveduard-design/NeuroProtocols
+
+### 🔹 GPT Engineer Portfolio
+Общий репозиторий моих учебных, практических и личных проектов.  
+➡ https://github.com/sarmanoveduard-design/GPT_Engineer_Portfolio
 
 ---
 
-## 🧠 Новые направления
+## 🧠 Что я делаю
 
-🔹 **Мультимодальный анализ**  
-Работа с изображениями и текстом для:
-- анализа производственных линий,
-- поиска узких мест,
-- проверки стандартов (HACCP, безопасность, эргономика),
-- выдачи практических рекомендаций для бизнеса.
-
-🔹 **RAG-консультанты**  
-Создание узкоспециализированных ассистентов, которые:
-- работают по внутренним документам компании,
-- отвечают в стиле эксперта,
-- логируют диалоги,
-- легко дообучаются.
-
-🔹 **Телеграм-боты для бизнеса**  
-- регистрация товаров и клиентов,
-- интеграция с Google Sheets / CRM,
-- голосовые боты (STT/TTS),
-- многошаговые сценарии на базе LLM.
+- Создаю **RAG-системы** на базе собственных документов.
+- Делаю **Telegram-ботов с интеллектом** (FAQ, регистрация, CRM-интеграции).
+- Разрабатываю **агентов-протоколистов** (резюме встреч, экшены, записи).
+- Пишу **бэкенды на FastAPI**.
+- Встраиваю API GPT в реальные процессы бизнеса.
+- Работаю с мультимодальными входами (текст + изображение + голос).
 
 ---
 
-## 🛠 Навыки и инструменты
+## 🛠 Навыки по областям
 
-| Категория         | Инструменты |
+| Область            | Технологии |
 |-------------------|------------|
-| LLM / AI          | GPT-4/5, OpenAI API, LangChain, LangGraph, RAG, embeddings, FAISS |
-| Backend           | Python, FastAPI, aiohttp, asyncio |
-| Чаты и боты       | aiogram 3.x, Telegram Bot API |
-| Голос / мультимодальность | Yandex SpeechKit, аудио- и текстовая обработка |
-| Интеграции        | Google Sheets API, вебхуки, REST API |
-| Девопс            | Docker, VDS, Nginx (базово) |
-| Инструменты       | VS Code, Git, GitHub |
-
----
-
-## 💼 Чем я могу быть полезен бизнесу
-
-- Разработка **Telegram-ботов** для автоматизации заявок, продаж и сервисных процессов.
-- Создание **RAG-ассистентов** по документации компании (регламенты, ТЗ, базы знаний).
-- Построение **агентов-протоколистов** для созвонов (запись, конспект, экшены).
-- Консультирование по внедрению **LLM и OpenAI API** в уже существующие процессы.
+| LLM / AI          | GPT-4/5, OpenAI API, LangChain, LangGraph, embeddings, RAG |
+| Backend           | Python, FastAPI, AsyncIO |
+| Bots              | aiogram 3.x, Telegram Bot API |
+| Integrations      | Google Sheets API, Webhooks |
+| Speech            | Yandex STT/TTS, Whisper |
+| DevOps            | Docker, VDS, Nginx |
+| Tools             | VS Code, Git, GitHub |
 
 ---
 
 ## 🌍 Обо мне
 
-- 📍 **Местоположение:** Busan, South Korea  
-- 💼 **Текущая деятельность:** Freelance / Coway Korea Automation  
-- 🌐 **Портфолио:** [github.com/sarmanoveduard-design](https://github.com/sarmanoveduard-design)  
-- 💬 **Языки:** Русский / English (Intermediate)
+- 📍 **Busan, South Korea**  
+- 💼 Freelance / Coway Korea Automation  
+- 🌐 GitHub Portfolio: https://github.com/sarmanoveduard-design  
+- 🗣 Языки: Русский / English (Intermediate)
 
 ---
 
 ## 📫 Контакты
 
-- ✉️ E-mail: **sarmanoveduard@gmail.com**  
-- 💼 Kwork: [kwork.ru/user/sarmanoveduard](https://kwork.ru/user/sarmanoveduard)
+- ✉️ Email: **sarmanoveduard@gmail.com**
+- 💼 Kwork: https://kwork.ru/user/sarmanoveduard
 
 ---
 
-> 💡 Мой принцип: *«Идеальный код — тот, что решает задачу каждого шага и без боли»* 🙂
+> 👨‍💻 *«Идеальный код — тот, что решает задачу каждого шага без боли»*
