@@ -19,6 +19,7 @@ GPT-инженер • Python-разработчик • AI-разработчи
 ![Docker](https://img.shields.io/badge/Docker-Containerization-0db7ed?logo=docker)
 ![Telegram](https://img.shields.io/badge/Telegram-Bots-26A5E4?logo=telegram)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-Integration-34A853?logo=googlesheets)
+![Contrast Prompting](https://img.shields.io/badge/Contrast_Prompting-6A1B9A?logo=openai&logoColor=white)
 
 ---
 
@@ -39,6 +40,11 @@ AI-агент для создания протоколов встреч (кон�
 ### 🔹 GPT Engineer Portfolio
 Общий репозиторий моих учебных, практических и личных проектов.  
 ➡ https://github.com/sarmanoveduard-design/GPT_Engineer_Portfolio
+
+### 🧠 Prompt Business Trainer — Контрасты промптов
+Проект по PRO-промптингу: сравнение трёх видов контрастов (стиль, формат, роль)  
+для обучения операторов колл-центра.  
+🔗 Репозиторий: https://github.com/sarmanoveduard-design/PromptBusinessTrainerContrasts
 
 ---
 
