@@ -28,22 +28,28 @@ GPT-инженер • Python-разработчик • AI-разработчи
 
 ## 📌 Мои проекты
 
+### 💬 Coway Telegram Bot
+
+Телеграм-бот для продукции **Coway** — поиск, каталог, заявки, Google Sheets-интеграция, автоматизация обработки запросов.
+
+📦 Репозиторий: https://github.com/sarmanoveduard-design/coway-telegram-bot
+
 ### 🔹 **MultimodalConfectioneryHW**
 Мультимодальный анализ кондитерского производства: выявление узких мест, рисков HACCP и рекомендации по оптимизации.  
-➡ https://github.com/sarmanoveduard-design/MultimodalConfectioneryHW
+📦 Репозиторий: https://github.com/sarmanoveduard-design/MultimodalConfectioneryHW
 
 ### 🔹 NeuroProtocols
 AI-агент для создания протоколов встреч (конспекты, экшены, резюме звонков).  
-➡ https://github.com/sarmanoveduard-design/NeuroProtocols
+📦 Репозиторий: https://github.com/sarmanoveduard-design/NeuroProtocols
 
 ### 🔹 GPT Engineer Portfolio
 Общий репозиторий моих учебных, практических и личных проектов.  
-➡ https://github.com/sarmanoveduard-design/GPT_Engineer_Portfolio
+📦 Репозиторий: https://github.com/sarmanoveduard-design/GPT_Engineer_Portfolio
 
 ### 🧠 Prompt Business Trainer — Контрасты промптов
 Проект по PRO-промптингу: сравнение трёх видов контрастов (стиль, формат, роль)  
 для обучения операторов колл-центра.  
-🔗 Репозиторий: https://github.com/sarmanoveduard-design/PromptBusinessTrainerContrasts
+📦 Репозиторий: https://github.com/sarmanoveduard-design/PromptBusinessTrainerContrasts
 
 ---
 
