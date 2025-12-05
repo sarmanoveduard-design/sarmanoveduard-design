@@ -7,18 +7,22 @@ GPT-инженер • Python-разработчик • AI-разработчи
 
 ---
 
-## 🚀 Мой стек
+## 🧰 Мой стек
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![GPT](https://img.shields.io/badge/GPT-4/5-black?logo=openai)
 ![LangChain](https://img.shields.io/badge/LangChain-Framework-orange)
 ![LangGraph](https://img.shields.io/badge/LangGraph-Agents-green)
+![RAG](https://img.shields.io/badge/RAG-RetrievalAugmentedGeneration-8A2BE2)
+![Embeddings](https://img.shields.io/badge/OpenAI-Embeddings-412991?logo=openai)
 ![FAISS](https://img.shields.io/badge/FAISS-VectorDB-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?logo=fastapi)
 ![Docker](https://img.shields.io/badge/Docker-Containerization-0db7ed?logo=docker)
 ![Telegram](https://img.shields.io/badge/Telegram-Bots-26A5E4?logo=telegram)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-Integration-34A853?logo=googlesheets)
-![Contrast Prompting](https://img.shields.io/badge/Contrast_Prompting-6A1B9A?logo=openai&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-Integration-34A853?logo=googlesheets)
+![n8n](https://img.shields.io/badge/n8n-Automation-FE59B3?logo=n8n)
+![GitHub](https://img.shields.io/badge/GitHub-Workflow-181717?logo=github)
+![Contrast Prompting](https://img.shields.io/badge/Contrast_Prompting-6A1B9A?logo=openai)
 
 ---
 
