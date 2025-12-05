@@ -10,7 +10,6 @@ GPT-инженер • Python-разработчик • AI-разработчи
 ## 🚀 Мой стек
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![OpenAI](https://img.shields.io/badge/OpenAI-API-412991?logo=openai)
 ![GPT](https://img.shields.io/badge/GPT-4/5-black?logo=openai)
 ![LangChain](https://img.shields.io/badge/LangChain-Framework-orange)
 ![LangGraph](https://img.shields.io/badge/LangGraph-Agents-green)
