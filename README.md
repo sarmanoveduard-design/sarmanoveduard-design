@@ -28,10 +28,6 @@ GPT-инженер • Python-разработчик • AI-разработчи
 Мультимодальный анализ кондитерского производства: выявление узких мест, рисков HACCP и рекомендации по оптимизации.  
 ➡ https://github.com/sarmanoveduard-design/MultimodalConfectioneryHW
 
-### 🔹 UAI FT vs RAG
-Сравнение Fine-tuning и Retrieval-Augmented Generation на учебных задачах УАИ.  
-➡ https://github.com/sarmanoveduard-design/UAI_FT_vs_RAG
-
 ### 🔹 NeuroProtocols
 AI-агент для создания протоколов встреч (конспекты, экшены, резюме звонков).  
 ➡ https://github.com/sarmanoveduard-design/NeuroProtocols
