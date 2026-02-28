@@ -1,4 +1,4 @@
-<h1 align="center">👋 Привет, я Эдуард Сарманов</h1>
+<h1 align="center">👋 Привет, я Эдуард / Eduard</h1>
 
 <p align="center">
 Backend Engineer • AI Systems Architect • LLM Integration Specialist  
