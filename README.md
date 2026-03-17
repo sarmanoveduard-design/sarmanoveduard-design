@@ -34,13 +34,16 @@ Building production-ready AI solutions with FastAPI, RAG & Agents.
 
 ## 📌 Мои проекты
 
-### 🤖 Moltbot — AI Assistant Platform
+### 🤖 Moltbot — Telegram Automation Platform
 
-Персональный AI-ассистент с голосовой активацией и управлением задачами.  
-Реализован поток: STT → LLM → TTS, Telegram-интерфейс, модульная backend-архитектура.
+Telegram-бот для автоматической публикации объявлений в Facebook и Instagram.
 
-⚙️ Стек: FastAPI, OpenAI API, Telegram Bot API, Docker  
-📦 Репозиторий: https://github.com/sarmanoveduard-design/moltbot
+Система принимает объявления через Telegram-бота, обрабатывает данные через FastAPI backend и выполняет автопостинг через worker-сервисы.
+
+⚙ Стек: FastAPI, Telegram Bot API, Docker, PostgreSQL, Redis, Playwright
+
+📦 Репозиторий:
+https://github.com/sarmanoveduard-design/moltbot
 
 ### 💬 Coway Telegram Bot
 
