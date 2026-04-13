@@ -34,17 +34,6 @@ Building production-ready AI solutions with FastAPI, RAG & Agents.
 
 ## 📌 Мои проекты
 
-### 🤖 Moltbot — Telegram Automation Platform
-
-Telegram-бот для автоматической публикации объявлений в Facebook и Instagram.
-
-Система принимает объявления через Telegram-бота, обрабатывает данные через FastAPI backend и выполняет автопостинг через worker-сервисы.
-
-⚙ Стек: FastAPI, Telegram Bot API, Docker, PostgreSQL, Redis, Playwright
-
-📦 Репозиторий:
-https://github.com/sarmanoveduard-design/moltbot
-
 ### 💬 Coway Telegram Bot
 
 Телеграм-бот для продукции **Coway** — поиск, каталог, заявки, Google Sheets-интеграция, автоматизация обработки запросов.
